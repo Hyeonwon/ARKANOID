@@ -1,0 +1,15 @@
+﻿cl : 명령줄  warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  virtualLego.cpp
+C:\Users\82107\OneDrive\바탕 화면\oop16_proj3(최종)\d3dUtility.h(23,9): warning C4005: 'INFINITY': 매크로 재정의
+  (소스 파일 'virtualLego.cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_math.h(101,9):
+      'INFINITY'의 이전 정의를 참조하십시오.
+  
+C:\Users\82107\OneDrive\바탕 화면\oop16_proj3(최종)\virtualLego.cpp(136,18): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82107\OneDrive\바탕 화면\oop16_proj3(최종)\virtualLego.cpp(166,28): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\82107\OneDrive\바탕 화면\oop16_proj3(최종)\virtualLego.cpp(198,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82107\OneDrive\바탕 화면\oop16_proj3(최종)\virtualLego.cpp(199,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82107\OneDrive\바탕 화면\oop16_proj3(최종)\virtualLego.cpp(341,39): warning C4305: 'return': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\82107\OneDrive\바탕 화면\oop16_proj3(최종)\virtualLego.cpp(651,16): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d3dUtility.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  VirtualLego.vcxproj -> C:\Users\82107\OneDrive\바탕 화면\oop16_proj3(최종)\Debug\VirtualLego.exe
